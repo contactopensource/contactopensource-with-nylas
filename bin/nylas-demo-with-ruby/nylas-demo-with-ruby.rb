@@ -37,6 +37,15 @@
 #
 #    * NYLAS_ACCOUNT_ACCESS_TOKEN
 #
+#
+# ## Tracking ##
+#
+#   * Command: nylas-demo-with-ruby.py
+#   * Version: 1.0.0
+#   * Updated: 2019-06-03
+#   * License: GPL
+#   * Contact: Joel Parker Henderson (joel@contactopensource.com)
+#
 ###
 
 

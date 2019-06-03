@@ -37,6 +37,14 @@
 //
 //    * NYLAS_ACCOUNT_ACCESS_TOKEN
 //
+// ## Tracking ##
+//
+//   * Command: nylas-demo-with-node.mjs
+//   * Version: 1.0.0
+//   * Updated: 2019-06-03
+//   * License: GPL
+//   * Contact: Joel Parker Henderson (joel@contactopensource.com)
+//
 ////
 
 import Nylas from 'nylas';
