@@ -17,7 +17,7 @@ Start with these two help pages:
 
   * [nylas_google_integration](doc/nylas_google_integration.md)
 
-  * [nylas_account_access_token](doc/nylas_account_access_token)
+  * [nylas_account_access_token](doc/nylas_account_access_token.md)
 
 The Nylas website has good guides that go into more depth, and provide more options. 
 
